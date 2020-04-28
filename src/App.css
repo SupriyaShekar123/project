@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 80px
+}
+
+.grid {
+    padding: 50px;
+    background-color: rgb(191, 221, 201);
+    border: 1px solid black
+}
+
+.gap {
+    padding: 30px;
+    border: 1px solid black;
+}
+
+.button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 999px;
+    margin: 10px;
+}

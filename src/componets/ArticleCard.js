@@ -1,0 +1,8 @@
+import React from 'react';
+
+export default function ArticleCard(props){
+return  (<div>
+<h2>{props.name}</h2>
+<p>{props.content}</p>
+</div>)
+}
